@@ -1,0 +1,18 @@
+.users_list{
+/*float:left;*/
+width:100%;
+clear:both;
+}
+.users_list ul
+{
+	
+}
+.users_list li
+{
+    list-style-type: circle;
+    margin-left: auto;
+    margin-bottom: 0;
+    border-bottom: 1px solid #ccc;
+    line-height: 30px;
+    color:#0C3;
+}
